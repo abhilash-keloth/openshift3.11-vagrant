@@ -17,7 +17,7 @@ The `OpenShift Vagrant` project aims to make it easy to bring up a real OKD clus
 - Host machine must have at least 8GB memory (16GB for OKD `3.11`)
 - Oracle VirtualBox installed on your host machine
 - Vagrant (2.0 or above) installed on your host machine
-- Vagrant plugin `vagrant-hostmanager` must be installed. You may use the below command. 
+- Vagrant plugin `vagrant-hostmanager` must be installed. You may use the command 
   $vagrant plugin install vagrant-hostmanager
 
 ## OKD Version Support
